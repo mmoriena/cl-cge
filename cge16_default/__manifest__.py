@@ -65,7 +65,7 @@
         'git@github.com:mmoriena/cl-cge.git',
         'git@github.com:quilsoft-org/CGE.git',
         # 'git@github.com:quilsoft-org/third-party-modules.git',
-        'git@github.com:odoomates/odooapps.git'
+        'git@github.com:odoomates/odooapps.git',
         'https://github.com/OCA/hr oca-hr',
         'https://github.com/OCA/web oca-web',
         'https://github.com/OCA/server-tools oca-server-tools',
