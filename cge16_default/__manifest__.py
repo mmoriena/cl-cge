@@ -62,7 +62,7 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:quilsoft-org/cl-cge.git',
+        'git@github.com:mmoriena/cl-cge.git',
         'git@github.com:quilsoft-org/CGE.git',
         # 'git@github.com:quilsoft-org/third-party-modules.git',
         'git@github.com:odoomates/odooapps.git'
