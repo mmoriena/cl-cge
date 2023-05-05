@@ -27,20 +27,22 @@
     'website': 'http://github.com/jobiols/cl-test',
     'license': 'AGPL-3',
     'depends': [
-        'om_hr_payroll',
         'custom_cge',
         'sage_data_import',
         'web_responsive',
-        'contacts',
         'concept_compare_report',
         'cge_multiproc',
         'import_bc',
         'payroll_embargo',
         'office_reports',
         'hr_income_tax',
+        'hr_salary_report',
+		'custom_cge_sql',
+		# 'file_export_cge',
+		'total_reports',
 
         # externos
-        'auto_backup',  # poner el backup en: /var/odoo/backups/
+        # 'auto_backup',  # poner el backup en: /var/odoo/backups/
         ],
     'installable': True,
 
